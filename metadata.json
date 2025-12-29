@@ -1,0 +1,5 @@
+{
+  "name": "Vox",
+  "description": "A high-fidelity Text-to-Speech application powered by Google's Gemini 2.5 Flash TTS model, featuring multiple voice personas and real-time audio visualization.",
+  "requestFramePermissions": []
+}
